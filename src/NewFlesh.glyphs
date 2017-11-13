@@ -182,7 +182,7 @@ unicode = 0043;
 },
 {
 glyphname = D;
-lastChange = "2017-11-12 17:36:13 +0000";
+lastChange = "2017-11-13 21:30:38 +0000";
 layers = (
 {
 layerId = "8752C9C2-76E8-46B3-9F69-552F70302F1A";
@@ -190,50 +190,50 @@ paths = (
 {
 closed = 1;
 nodes = (
-"96 1 LINE",
-"211 1 LINE",
-"211 701 LINE",
-"96 701 LINE"
+"98 1 LINE",
+"213 1 LINE",
+"213 700 LINE",
+"98 700 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"211 116 LINE",
-"211 1 LINE",
-"373 1 LINE",
-"373 116 LINE"
+"213 116 LINE",
+"213 1 LINE",
+"375 1 LINE",
+"375 116 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"370 0 LINE",
-"485 0 LINE",
-"485 565 LINE",
-"370 565 LINE"
+"372 0 LINE",
+"487 0 LINE",
+"487 396 LINE",
+"372 396 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"373 701 LINE",
-"323 586 LINE",
-"370 530 LINE",
-"485 565 LINE"
+"375 700 LINE",
+"213 700 LINE",
+"213 586 LINE",
+"325 586 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"373 701 LINE",
-"211 701 LINE",
-"211 586 LINE",
-"323 586 LINE"
+"274 700 LINE",
+"372 380 LINE",
+"487 396 LINE",
+"394 700 LINE"
 );
 }
 );
-width = 600;
+width = 585;
 }
 );
 unicode = 0044;
